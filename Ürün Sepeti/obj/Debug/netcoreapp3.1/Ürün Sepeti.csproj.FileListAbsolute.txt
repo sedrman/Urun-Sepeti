@@ -1,0 +1,16 @@
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\bin\Debug\netcoreapp3.1\Ürün Sepeti.exe
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\bin\Debug\netcoreapp3.1\Ürün Sepeti.deps.json
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\bin\Debug\netcoreapp3.1\Ürün Sepeti.runtimeconfig.json
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\bin\Debug\netcoreapp3.1\Ürün Sepeti.runtimeconfig.dev.json
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\bin\Debug\netcoreapp3.1\Ürün Sepeti.dll
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\bin\Debug\netcoreapp3.1\Ürün Sepeti.pdb
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.csproj.AssemblyReference.cache
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün_Sepeti.Form1.resources
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.csproj.GenerateResource.cache
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.dll
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.pdb
+C:\Users\ihsan\Desktop\Ürün Sepeti\Ürün Sepeti\obj\Debug\netcoreapp3.1\Ürün Sepeti.genruntimeconfig.cache
